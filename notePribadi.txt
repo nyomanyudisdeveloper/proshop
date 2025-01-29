@@ -1,0 +1,8 @@
+npx prisma init = membuat folder prisma baru untuk template model 
+npx prisma generate = Untuk mempersiapkan model untuk migrate ? 
+npx prisma migrate dev --name init = untuk melakukan migration 
+npx prisma studio = untuk melihat database dengan prisma 
+contoh seedding dengan prisma ada di db/seed.tsx . cara menjalankannya dengan running ts biasa npx tsx ./db/seed
+
+validator ??? 
+tonton lagi video 24. Severless Enviroment Config. Kenapa harus dibikin socket untuk connect prisma dan postgresql
